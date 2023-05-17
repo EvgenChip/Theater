@@ -1,0 +1,30 @@
+.footer {
+  height: 230px;
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer__logo {
+  padding-left: 77px;
+  display: flex;
+  align-items: center;
+}
+.footer__logo img {
+  padding-left: 77px;
+}
+
+.footer__logo span {
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 39px;
+  text-align: center;
+  color: #2355d7;
+}
+
+.footer__QR {
+  width: 150px;
+  height: 150px;
+}

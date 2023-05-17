@@ -1,0 +1,115 @@
+.container {
+  width: 3840px;
+  height: 2160px;
+  padding: 0 407px;
+  margin: 0 auto;
+}
+
+.artwork-page {
+  background: #fef5e0;
+  position: relative;
+}
+
+.artwork-page__inner {
+  padding-bottom: 175px;
+  padding-right: 99px;
+  padding-left: 60px;
+  background-color: #fff;
+  display: flex;
+  gap: 169px;
+}
+
+.artwork-page__content_title {
+  padding-top: 45px;
+  border-bottom: 6px solid #989a99;
+  width: 85%;
+  margin-left: 184px;
+  font-family: "Bodoni";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 53px;
+  text-align: center;
+  color: #000000;
+}
+
+.artwork-page__content_description {
+  padding-top: 46px;
+  font-family: "Bodoni";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 53px;
+  color: #000000;
+}
+
+.artwork-page__name {
+  font-weight: 400;
+  font-size: 111px;
+  line-height: 140px;
+  text-align: center;
+  color: #181e21;
+  position: absolute;
+  margin-left: 1580px;
+  margin-top: -274px;
+}
+.artwork-page__button-wrapper {
+  padding-top: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 96px;
+}
+.artwork-page__button {
+  padding-top: 20px;
+  padding-left: 40px;
+  width: 1062px;
+  height: 145px;
+  background: #efc26d;
+  box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.4);
+  border-radius: 40px;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 91px;
+  text-align: center;
+  color: #181e21;
+  position: relative;
+}
+.artwork-page__button::before {
+  color: #181e21;
+  content: "\2022";
+  font-size: 82px;
+  font-weight: 700;
+  left: 24px;
+  line-height: 18px;
+  position: absolute;
+  top: 60px;
+}
+
+.artwork-page__button::after {
+  color: #181e21;
+  content: "\2022";
+  font-size: 82px;
+  font-weight: 700;
+  right: 24px;
+  line-height: 18px;
+  position: absolute;
+  top: 60px;
+}
+.artwork-page__button_back {
+  width: 366px;
+  height: 139px;
+  background: #ffffff;
+  border: 4px solid #c9c9c9;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 74px;
+  text-align: center;
+  border-radius: 30px;
+  color: #c9c9c9;
+  cursor: pointer;
+  position: absolute;
+  margin-left: 1835px;
+  margin-top: 40px;
+}

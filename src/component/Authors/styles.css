@@ -1,0 +1,12 @@
+.authors {
+    padding: 64px 159px 55px 164px;
+    width: 2017px;
+    display: flex;
+    flex-direction: column;
+    column-gap: 55px;
+    background-image: url(../../assets/Authors/Group.svg);
+    background-repeat: no-repeat;
+    background-position-x: -1406px;
+    background-position-y: 0px;
+}
+

@@ -1,0 +1,71 @@
+.author__link:active,
+.author__link:hover,
+.author__link {
+  text-decoration: none;
+  color: #181E21;
+}
+
+.author {
+    padding-top: 64px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.author.reverseDir {
+    flex-direction: row-reverse;
+}
+
+.author__img {
+    position: absolute;
+    top: -65px;
+    width: 355px;
+    height: 355px;
+}
+
+.author__button-wrap {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    width: 1062px;
+    height: 145px;
+    margin: 0px 177.5px 0px 177.5px;
+    background: #efc26d;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.4);
+    border-radius: 40px;
+    font-weight: 400;
+    font-size: 72px;
+}
+
+.btn__wrap__reverse {
+    justify-content: flex-end;
+}
+
+.author__button {
+    width: 696px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.author__button::before {
+    color: #181E21;
+    content: "\2022";
+    font-size: 82px;
+    font-weight: 700;
+    left: -5px;
+    line-height: 18px;
+    position: absolute;
+    top: 35px;
+}
+
+.author__button::after {
+    color: #181E21;
+    content: "\2022";
+    font-size: 82px;
+    font-weight: 700;
+    right: -5px;
+    line-height: 18px;
+    position: absolute;
+    top: 35px;
+}

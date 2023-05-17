@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  height: 456px;
+}
+
+.header__logo {
+    width: 1008px;
+    height: 456px;
+}
+
+.header__title {
+    width: 1985px;
+    height: 250px;
+}
