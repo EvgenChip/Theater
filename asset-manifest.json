@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/theater/static/css/main.e6cb40be.css",
+    "main.js": "/theater/static/js/main.b5eaecff.js",
+    "static/media/photoTheater.png": "/theater/static/media/photoTheater.4b91940c9f8e8cecbc1d.png",
+    "static/media/Group.svg": "/theater/static/media/Group.00bf985b934178555f3b.svg",
+    "static/media/logoMT.svg": "/theater/static/media/logoMT.17341596ebbf563ae1fb10684518b906.svg",
+    "static/media/Shekspir.png": "/theater/static/media/Shekspir.abfa3be05349c3d54cf2.png",
+    "static/media/Ostrovsky.png": "/theater/static/media/Ostrovsky.56251969f0ffefbf4d83.png",
+    "static/media/Pushkin.png": "/theater/static/media/Pushkin.7c20a178c69da9e1cc67.png",
+    "static/media/Shiller.png": "/theater/static/media/Shiller.c6b1c787b0e8cbd3e20f.png",
+    "static/media/Griboedov.png": "/theater/static/media/Griboedov.b888afe605e0b635ff69.png",
+    "static/media/Gogol.png": "/theater/static/media/Gogol.cc911229881b4ef3c0ff.png",
+    "static/media/ceremoniousone.ttf": "/theater/static/media/ceremoniousone.e76fbd5186d234a07987.ttf",
+    "static/media/OstrovskyRight.svg": "/theater/static/media/OstrovskyRight.225bab87953f621a656b323144135deb.svg",
+    "static/media/ShekspirLeft.svg": "/theater/static/media/ShekspirLeft.ea51ab919baa72efb279535d739039ed.svg",
+    "static/media/PushkinRight.svg": "/theater/static/media/PushkinRight.3b6a9d98302f4b6406afd2127aed7db9.svg",
+    "static/media/ShekspirRight.svg": "/theater/static/media/ShekspirRight.bb7b9f4c53c547a77c802f7281af1e24.svg",
+    "static/media/OstrovskyLeft.svg": "/theater/static/media/OstrovskyLeft.618a4b5eb88f4188c142aaad547ff3a7.svg",
+    "static/media/GogolLeft.svg": "/theater/static/media/GogolLeft.95b7938f9dd897fcd25a0810ac15f932.svg",
+    "static/media/GogolRight.svg": "/theater/static/media/GogolRight.cb744935a5758c1054e14d4bd81add13.svg",
+    "static/media/ShillerRight.svg": "/theater/static/media/ShillerRight.c44759c0c933a4906cca7d45924327ee.svg",
+    "static/media/ShillerLeft.svg": "/theater/static/media/ShillerLeft.d11c7bef3cd796b1dfc2123b62dc35fb.svg",
+    "static/media/PushkinLeft.svg": "/theater/static/media/PushkinLeft.a02dfb15f2247386d60b92496a73e7be.svg",
+    "static/media/borderTitle.png": "/theater/static/media/borderTitle.122d0c6bbe78f979b84d.png",
+    "static/media/QR.svg": "/theater/static/media/QR.807f66ad2a0eb5acb9bea6bc5a83a58e.svg",
+    "static/media/GriboedovLeft.svg": "/theater/static/media/GriboedovLeft.460dafe917e49c38f23a49272520449c.svg",
+    "static/media/GriboedovRight.svg": "/theater/static/media/GriboedovRight.57e29ecc692b969e76dff80b33b5435f.svg",
+    "static/media/Gazprom.svg": "/theater/static/media/Gazprom.1e5b96eebbb0c2f69e225167c3cd015b.svg",
+    "index.html": "/theater/index.html",
+    "main.e6cb40be.css.map": "/theater/static/css/main.e6cb40be.css.map",
+    "main.b5eaecff.js.map": "/theater/static/js/main.b5eaecff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6cb40be.css",
+    "static/js/main.b5eaecff.js"
+  ]
+}
