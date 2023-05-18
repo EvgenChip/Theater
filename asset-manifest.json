@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/theater/static/css/main.e6cb40be.css",
-    "main.js": "/theater/static/js/main.b5eaecff.js",
+    "main.js": "/theater/static/js/main.5b225317.js",
     "static/media/photoTheater.png": "/theater/static/media/photoTheater.4b91940c9f8e8cecbc1d.png",
     "static/media/Group.svg": "/theater/static/media/Group.00bf985b934178555f3b.svg",
     "static/media/logoMT.svg": "/theater/static/media/logoMT.17341596ebbf563ae1fb10684518b906.svg",
@@ -29,10 +29,10 @@
     "static/media/Gazprom.svg": "/theater/static/media/Gazprom.1e5b96eebbb0c2f69e225167c3cd015b.svg",
     "index.html": "/theater/index.html",
     "main.e6cb40be.css.map": "/theater/static/css/main.e6cb40be.css.map",
-    "main.b5eaecff.js.map": "/theater/static/js/main.b5eaecff.js.map"
+    "main.5b225317.js.map": "/theater/static/js/main.5b225317.js.map"
   },
   "entrypoints": [
     "static/css/main.e6cb40be.css",
-    "static/js/main.b5eaecff.js"
+    "static/js/main.5b225317.js"
   ]
 }
