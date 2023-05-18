@@ -8,7 +8,7 @@ import { Main } from "./component/Main/index.jsx";
 const App = () => (
   <Router>
     <Routes>
-      <Route exact path="/" element={<Main />} />
+      <Route exact path="/theater" element={<Main />} />
       <Route exact path="/authors/:id" element={<AuthorPage />} />
       <Route
         exact
